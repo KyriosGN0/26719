@@ -1,5 +1,5 @@
 image:
   registry: docker.io
   image: busybox
-  tag: 1.36.1
+  tag: 1.36.0
   
